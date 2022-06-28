@@ -20,8 +20,7 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: <br/>
-  Site : <a href="https://neverland23216.vercel.app/" target="_blank">https://neverland23216.vercel.app/</a><br/>
-  Phone : +1 303 800 8634<br/>
+  Business Phone : +1 303 800 8634<br/>
   Email : jhmun23216@gmail.com<br/>
   Telegram : https://t.me/jhmun23216<br/>
   Skype : live:.cid.ea6b3af066a3436e<br/>
