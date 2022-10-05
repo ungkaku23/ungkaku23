@@ -10,12 +10,12 @@
 
 ---
 
-### :man_technologist: About Me : I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Neverland
+### :man_technologist: About Me : I am an Exceptional Software Engineer & Entrepreneur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Neverland
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web/blockchain applications.
+- :telescope: I’m working as a Top-Notch Software Engineer and contributing to frontend and backend for building web/blockchain applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Tech Lead & PM & Co-Founder at Neverland LLC
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
