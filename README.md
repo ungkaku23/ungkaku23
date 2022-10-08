@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/neverland23/neverland23/blob/main/mbanner.png" width="600" height="300"/>
+  <img src="https://github.com/neverland23/neverland23/blob/main/mbanner.png" width="100%" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neverland23&style=flat-square&color=blue" alt=""/>
