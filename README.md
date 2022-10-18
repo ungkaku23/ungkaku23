@@ -23,7 +23,7 @@
   Telegram : https://t.me/jhmun23216<br/>
   Skype : live:.cid.ea6b3af066a3436e<br/>
   
-  PS : Prefer to use Email, Skype. Please contact me via Email, Skype, If needed.
+  PS : Prefer to use Email, Skype. Please contact me via Personal Email, Skype, If needed.
   
 
 ---
