@@ -12,13 +12,14 @@
 
 - :telescope: I’m working as a Top-Notch Software Engineer and contributing to frontend and backend for building web/blockchain applications.
 
-- :seedling: Tech Lead & PM & Co-Founder at Neverland LLC
+- :seedling: Tech Lead & PM & Co-Founder at Neverland LLC , Manager at Pronoor Technologies
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: <br/>
   Business Phone : +1 303 800 8634<br/>
   Email : jhmun23216@gmail.com<br/>
+  Business Email : jiangbin23216@pronoor.com<br/>
   Telegram : https://t.me/jhmun23216<br/>
   Skype : live:.cid.ea6b3af066a3436e<br/>
   
