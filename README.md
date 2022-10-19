@@ -71,6 +71,36 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neverland23&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverland23&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Highlights :
+<table>
+    <thead align="center">
+        <tr>
+            <td>Wulfz Official</td>
+            <td>Itsuki NFT</td>           
+            <td>DogePass</td>
+            <td>FunkiFoxes</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://opensea.io/collection/wulfz-official" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183122949-c82281a0-6727-441e-a837-da189e1f1678.PNG" width="200" height="130">
+            </a>
+        </td>
+        <td>
+            <a href="https://itsukinft.com" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183128691-2e3dfa6e-26d1-4f5d-aa12-20e35efc913e.PNG" width="200" height="130">
+            </a>
+        </td>           
+       <td>
+            <a href="https://crypto-swords.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200" height="130">
+            </a>
+        </td>  
+        <td>
+            <a href="https://funkifoxes.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200" height="130">
+            </a>
+        </td>             
+    </tr>   
+</table>
