@@ -71,6 +71,50 @@
 
 ---
 
+### :hammer_and_wrench: Best Services :
+<table>
+    <thead align="center">
+        <tr>
+            <td>FRONTEND</td>
+            <td>BACKEND</td>           
+            <td>AUTOMATION TOOL</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            HTML 5 | CSS 3 | Bootstrap | Tailwind CSS | Material UI | Angular | React | Next | Vue | Svelte | Ember | JQuery | NgRx | Redux (Saga, Thunk, ToolKit) | Vuex | PSD | AI | Sketch | Zeplin | Figma | Any Blueprints | Test Case Writing
+        </td>
+        <td>
+            NodeJS - Express / Nest | Python - Django / Flask / FastAPI | PHP - Laravel | Ruby - Rails
+        </td>           
+       <td>
+            Zapier | Zoho | CloudHQ | API Fuse
+        </td>              
+    </tr>
+</table>
+<p></p>
+<table>
+    <thead align="center">
+        <tr>
+            <td>WEB/DATA SCRAPING</td>
+            <td>DB / DevOPS</td>           
+            <td>Blockchain</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            Python - Selenium / BS / Request | Javascript - Puppeter | PHP - Curl
+        </td>          
+       <td>
+            DB - MySQL / PostgreSQL / Microsoft SQL Server / SQLite / MongoDB | Dev OPS - Git Action / Heroku Pipeline / Digital Ocean Pipeline / Vercel / Jira
+        </td>          
+       <td>
+            NFT Minting | Staking | Marketplace | Tokenomics | Dex | Cex
+        </td>
+    </tr>
+</table>
+---
+
 ### :fire: My Highlights :
 <table>
     <thead align="center">
