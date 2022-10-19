@@ -76,30 +76,30 @@
     <thead align="center">
         <tr>
             <td>Jonas</td>
-            <td>Itsuki NFT</td>           
-            <td>DogePass</td>
-            <td>FunkiFoxes</td>
+            <td>HelloScribe</td>           
+            <td>Altconsole</td>
+            <td>Yardstix</td>
         </tr>
     </thead>
     <tr>
         <td>
             <a href="https://www.jonas-strambach.de/" target="_blank">
-                <img src="../jonas_pixel-perfect.png" width="200" height="130">
+                <img src="https://github.com/neverland23/neverland23/blob/main/jonas_pixel-perfect.png" width="200" height="130">
             </a>
         </td>
         <td>
-            <a href="https://itsukinft.com" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183128691-2e3dfa6e-26d1-4f5d-aa12-20e35efc913e.PNG" width="200" height="130">
+            <a href="https://www.helloscribe.ai/" target="_blank">
+                <img src="https://github.com/neverland23/neverland23/blob/main/hello_scribe_vue_node.png" width="200" height="130">
             </a>
         </td>           
        <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200" height="130">
+            <a href="https://altconsole.com/" target="_blank">
+                <img src="https://github.com/neverland23/neverland23/blob/main/altconsole_react_ror.png" width="200" height="130">
             </a>
         </td>  
         <td>
-            <a href="https://funkifoxes.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200" height="130">
+            <a href="https://yardstix.co.uk/" target="_blank">
+                <img src="https://github.com/neverland23/neverland23/blob/main/yardstix_angular_python.png" width="200" height="130">
             </a>
         </td>             
     </tr>   
