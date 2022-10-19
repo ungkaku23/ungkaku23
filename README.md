@@ -154,8 +154,5 @@
         <td>
             Solana | NFT Staking | Smart Contract | React | Web3
         </td>
-        <td>
-            Angular | NgRx | Material | Python | Django | MySQL
-        </td>
     </tr>
 </table>
