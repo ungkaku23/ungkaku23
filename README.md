@@ -102,5 +102,19 @@
                 <img src="https://github.com/neverland23/neverland23/blob/main/yardstix_angular_python.png" width="200" height="130">
             </a>
         </td>             
-    </tr>   
+    </tr>
+    <tr>
+        <td>
+            Pixel-Perfect | Responsive | Tailwind CSS | HTML5
+        </td>
+        <td>
+            Vue | Vuex | Vite | Tailwind CSS | Node | Express | MongoDB
+        </td>
+        <td>
+            React | Next | Redux | Ruby on Rails | Postgres
+        </td>
+        <td>
+            Angular | NgRx | Material | Python | Django | MySQL
+        </td>
+    </tr>
 </table>
