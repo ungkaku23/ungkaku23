@@ -75,7 +75,7 @@
 <table>
     <thead align="center">
         <tr>
-            <td>Wulfz Official</td>
+            <td>Jonas</td>
             <td>Itsuki NFT</td>           
             <td>DogePass</td>
             <td>FunkiFoxes</td>
@@ -83,8 +83,8 @@
     </thead>
     <tr>
         <td>
-            <a href="https://opensea.io/collection/wulfz-official" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183122949-c82281a0-6727-441e-a837-da189e1f1678.PNG" width="200" height="130">
+            <a href="https://www.jonas-strambach.de/" target="_blank">
+                <img src="../jonas_pixel-perfect.png" width="200" height="130">
             </a>
         </td>
         <td>
