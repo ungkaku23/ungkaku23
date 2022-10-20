@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me : I am an Exceptional Software Engineer & Entrepreneur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Neverland
 
-
+<span style="color:blue">some *blue* text</span>
 - :telescope: I’m working as a Top-Notch Software Engineer and contributing to frontend and backend for building web/blockchain applications.
 
 - :seedling: Tech Lead & PM & Co-Founder at <a href="https://neverland23216.vercel.app/" target="_blank" rel="noopener noreferrer">Neverland LLC</a> , Manager at <a href="https://pronoor.com/" target="_blank" rel="noopener noreferrer">Pronoor Technologies</a>
