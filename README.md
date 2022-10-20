@@ -7,7 +7,7 @@
 
 ---
 
-### :man_technologist: <font color="red">>About Me</font> : I am an Exceptional Software Engineer & Entrepreneur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Neverland
+### :man_technologist: ![#f03c15]About Me : I am an Exceptional Software Engineer & Entrepreneur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Neverland
 
 
 - :telescope: I’m working as a Top-Notch Software Engineer and contributing to frontend and backend for building web/blockchain applications.
