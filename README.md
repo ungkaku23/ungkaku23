@@ -19,7 +19,7 @@
 - :mailbox:How to reach me: <br/>
   Business Phone : +1 303 800 8634<br/>
   Email : jhmun23216@gmail.com<br/>
-  Business Email : jiangbin23216@pronoor.com<br/>
+  Business Email : jiang@halicon.io<br/>
   Telegram : https://t.me/jhmun23216<br/>
   Skype : live:.cid.ea6b3af066a3436e<br/>
   
