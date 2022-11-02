@@ -12,7 +12,7 @@
 
 - :telescope: I’m working as a Top-Notch Software Engineer and contributing to frontend and backend for building web/blockchain applications.
 
-- :seedling: Tech Lead & PM & Co-Founder at <a href="https://neverland23216.vercel.app/" target="_blank" rel="noopener noreferrer">Neverland LLC</a> , Manager at <a href="https://pronoor.com/" target="_blank" rel="noopener noreferrer">Pronoor Technologies</a>
+- :seedling: Founder & Tech Lead at <a href="https://neverland23216.vercel.app/" target="_blank" rel="noopener noreferrer">Neverland LLC</a> , Co-Founder & CTO at <a href="https://halicon.io/" target="_blank" rel="noopener noreferrer">Halicon</a>
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
